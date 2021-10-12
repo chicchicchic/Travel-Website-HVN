@@ -1,3 +1,0 @@
-link: https://gitlab.com/hvnhutech/mytravel
-email: chikhanhbui1999@gmail.com
-pass: 56781234
